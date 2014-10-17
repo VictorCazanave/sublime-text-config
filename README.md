@@ -1,7 +1,7 @@
 sublime-text
 ============
 
-My configuration of Sublime Text
+My configuration of [Sublime Text](http://www.sublimetext.com/3)
 
 # Plugins
 * AdvancedNewFile
