@@ -1,0 +1,24 @@
+<snippet>
+  <content>
+    <![CDATA[
+<!DOCTYPE>
+<html ng-app="${1:app}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="author" content="Victor Cazanave" />
+    <meta name="description" content="${2:description}" />
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>${3:title}</title>
+  </head>
+
+  <body ng-controller="{4:mainCtrl}">
+    ${5:content}
+
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
+    <script type="text/javascript" src="script.js"></script>
+  </body>
+</html>
+]]>
+  </content>
+  <tabTrigger>nghtml</tabTrigger>
+</snippet>
