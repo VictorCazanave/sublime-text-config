@@ -1,0 +1,16 @@
+<snippet>
+  <content>
+    <![CDATA[
+${1:module}.service('${2:service}', function(${3}) {
+    var api = {
+      ${4:myFunction}: function(${5}) {${6}}
+    };
+
+    return api;
+  }
+]);
+]]>
+  </content>
+  <tabTrigger>ngsrvc</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
