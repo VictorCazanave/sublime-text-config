@@ -1,0 +1,17 @@
+<snippet>
+  <content>
+    <![CDATA[
+${1:module}.directive('${2:directive}', function(${3}) {
+  return {
+    restrict: '${4:EAC}',
+    templateUrl: '${5:template}.html',
+    replace: ${6:true},
+    scope: {${7}},
+    link: function(scope, element, attrs) {${8}}
+  };
+});
+]]>
+  </content>
+  <tabTrigger>ngdrtv</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
