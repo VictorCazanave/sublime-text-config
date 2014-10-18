@@ -1,0 +1,13 @@
+<snippet>
+  <content>
+    <![CDATA[
+
+${1:module}.controller('${2:controller}', function(${3}) {
+  ${4}
+  }
+]);
+]]>
+  </content>
+  <tabTrigger>ngctrl</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
