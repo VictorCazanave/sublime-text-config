@@ -1,0 +1,16 @@
+<snippet>
+  <content>
+    <![CDATA[
+<table>
+  <tr>
+    <th>${1}</th>
+  </tr>
+  <tr ng-repeat="${2:item} in ${3:items}">
+    <td>${4:item}</td>
+  </tr>
+</table>
+]]>
+  </content>
+  <tabTrigger>ngtable</tabTrigger>
+  <scope>text.html</scope>
+</snippet>
