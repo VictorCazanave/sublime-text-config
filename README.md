@@ -12,6 +12,7 @@ My configuration of [Sublime Text](http://www.sublimetext.com/3)
 * Emmet
 * File History
 * GotoSelection
+* HTML-CSS-JS Prettify
 * Keymaps
 * Local History
 * MoveText
@@ -20,3 +21,11 @@ My configuration of [Sublime Text](http://www.sublimetext.com/3)
 * SublimeLinter
 * SublimeLinter-jshint
 * SyncedSideBar
+
+## dired
+### Keyboard shortcut
+CMD + ALT + D
+
+## HTML-CSS-JS Prettify
+### Keyboard shortcut
+CMD + SHIFT + H
