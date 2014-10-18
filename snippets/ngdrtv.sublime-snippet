@@ -1,7 +1,7 @@
 <snippet>
   <content>
     <![CDATA[
-${1:module}.directive('${2:directive}', function(${3}) {
+${1:myModule}.directive('${2:myDirective}', function(${3}) {
   return {
     restrict: '${4:EAC}',
     templateUrl: '${5:template}.html',
