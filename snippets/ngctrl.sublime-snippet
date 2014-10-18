@@ -2,10 +2,9 @@
   <content>
     <![CDATA[
 
-${1:module}.controller('${2:controller}', function(${3}) {
+${1:myModule}.controller('${2:myController}', function(\$scope${3}) {
   ${4}
-  }
-]);
+});
 ]]>
   </content>
   <tabTrigger>ngctrl</tabTrigger>
