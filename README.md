@@ -1,4 +1,4 @@
-sublime-text
+sublime-text-config
 ============
 
 My configuration of [Sublime Text](http://www.sublimetext.com/3)
