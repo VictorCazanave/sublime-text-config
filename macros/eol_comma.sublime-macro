@@ -1,28 +1,20 @@
-[
-	{
-		"args": null,
-		"command": "toggle_bookmark"
+[{
+	"args": null,
+	"command": "toggle_bookmark"
+}, {
+	"args": {
+		"to": "eol"
 	},
-	{
-		"args":
-		{
-			"to": "eol"
-		},
-		"command": "move_to"
+	"command": "move_to"
+}, {
+	"args": {
+		"characters": ","
 	},
-	{
-		"args":
-		{
-			"characters": ","
-		},
-		"command": "insert"
-	},
-	{
-		"args": null,
-		"command": "prev_bookmark"
-	},
-	{
-		"args": null,
-		"command": "clear_bookmarks"
-	}
-]
+	"command": "insert"
+}, {
+	"args": null,
+	"command": "prev_bookmark"
+}, {
+	"args": null,
+	"command": "clear_bookmarks"
+}]
