@@ -1,0 +1,25 @@
+	[{
+		"keys": [",", "n", ","],
+		"command": "run_macro_file",
+		"args": {
+			"file": "res://Packages/User/eol_comma.sublime-macro"
+		}
+	}, {
+		"keys": [";", "n", ";"],
+		"command": "run_macro_file",
+		"args": {
+			"file": "res://Packages/User/eol_semicolon.sublime-macro"
+		}
+	}, {
+		"keys": ["super+alt+d"],
+		"command": "dired"
+	}, {
+		"keys": ["super+ctrl+left"],
+		"command": "move_text_left"
+	}, {
+		"keys": ["super+ctrl+right"],
+		"command": "move_text_right"
+	}, {
+		"keys": ["super+<", "super+o"],
+		"command": "goto_selection"
+	}]
