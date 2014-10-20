@@ -22,13 +22,9 @@ My configuration of [Sublime Text](http://www.sublimetext.com/3)
 * SublimeLinter-jshint
 * SyncedSideBar
 
-### dired
-#### Keyboard shortcut
-CMD + ALT + D
-
-### HTML-CSS-JS Prettify
-#### Keyboard shortcut
-CMD + SHIFT + H
+## Keyboard shortcuts
+* Open dired in the current directory: CMD + ALT + D
+* Prettify the current file: CMD + SHIFT + H
 
 ## Snippets
 Local directory: ~/Library/Application Support/Sublime Text 3/Packages/User
