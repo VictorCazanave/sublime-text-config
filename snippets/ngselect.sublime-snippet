@@ -1,9 +1,9 @@
 <snippet>
-  <content>
-    <![CDATA[
+	<content>
+		<![CDATA[
 <select ng-model="${1:model}" ng-options="${2:item.property} for ${3:item} in ${4:items}"></select>
 ]]>
-  </content>
-  <tabTrigger>ngselect</tabTrigger>
-  <scope>text.html</scope>
+	</content>
+	<tabTrigger>ngselect</tabTrigger>
+	<scope>text.html</scope>
 </snippet>

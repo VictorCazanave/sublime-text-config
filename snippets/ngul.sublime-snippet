@@ -1,11 +1,11 @@
 <snippet>
-  <content>
-    <![CDATA[
+	<content>
+		<![CDATA[
 <ul ng-repeat"${1:item} in ${2:items}">
   <li>{{${3:item}}</li>
 </ul>
 ]]>
-  </content>
-  <tabTrigger>ngul</tabTrigger>
-  <scope>text.html</scope>
+	</content>
+	<tabTrigger>ngul</tabTrigger>
+	<scope>text.html</scope>
 </snippet>

@@ -1,9 +1,9 @@
 <snippet>
-  <content>
-    <![CDATA[
+	<content>
+		<![CDATA[
 <input ng-model="${1:model}" type="${2:type}">
 ]]>
-  </content>
-  <tabTrigger>nginput</tabTrigger>
-  <scope>text.html</scope>
+	</content>
+	<tabTrigger>nginput</tabTrigger>
+	<scope>text.html</scope>
 </snippet>

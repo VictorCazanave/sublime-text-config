@@ -1,11 +1,11 @@
 <snippet>
-  <content>
-    <![CDATA[
+	<content>
+		<![CDATA[
 \$scope.${1:myFunction} = function(${2}) {
   ${3}
 };
 ]]>
-  </content>
-  <tabTrigger>ngfct</tabTrigger>
-  <scope>source.js</scope>
+	</content>
+	<tabTrigger>ngfct</tabTrigger>
+	<scope>source.js</scope>
 </snippet>

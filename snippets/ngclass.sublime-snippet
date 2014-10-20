@@ -1,9 +1,9 @@
 <snippet>
-  <content>
-    <![CDATA[
+	<content>
+		<![CDATA[
 ng-class="{'${1:class}':${2:boolean}}"
 ]]>
-  </content>
-  <tabTrigger>ngclass</tabTrigger>
-  <scope>text.html</scope>
+	</content>
+	<tabTrigger>ngclass</tabTrigger>
+	<scope>text.html</scope>
 </snippet>

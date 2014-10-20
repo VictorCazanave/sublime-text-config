@@ -1,12 +1,11 @@
 <snippet>
-  <content>
-    <![CDATA[
-
+	<content>
+		<![CDATA[
 ${1:myModule}.controller('${2:myController}', function(\$scope${3}) {
   ${4}
 });
 ]]>
-  </content>
-  <tabTrigger>ngctrl</tabTrigger>
-  <scope>source.js</scope>
+	</content>
+	<tabTrigger>ngctrl</tabTrigger>
+	<scope>source.js</scope>
 </snippet>
