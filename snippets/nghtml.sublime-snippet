@@ -11,7 +11,7 @@
     <title>${3:title}</title>
   </head>
 
-  <body ng-controller="{4:mainCtrl}">
+  <body ng-controller="${4:mainCtrl}">
     ${5:content}
 
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
