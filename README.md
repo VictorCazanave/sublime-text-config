@@ -1,7 +1,9 @@
- Sublime Text Config
+ (Not used anymore) Sublime Text Config
 ============
 
-My configuration of [Sublime Text](http://www.sublimetext.com/3)
+My configuration of [Sublime Text](http://www.sublimetext.com/3).
+
+Now I'm using [Atom](https://atom.io).
 
 ## Plugins
 * AdvancedNewFile
